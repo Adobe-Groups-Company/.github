@@ -28,7 +28,7 @@ Adobe-Groups-Company is structured to support both our internal teams and our br
 
 ## Departments and Teams
 1. **Executive Team**
-   - Team Leader: [Venky Kumar]
+   - Team Leader: **[Venky Kumar]**
 2. **Operational Teams**
    - Human Resources
    - Finance
